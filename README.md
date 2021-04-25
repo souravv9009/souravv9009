@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning React and Backend Development;
 - 📫 get in touch with me :
 
-Twitter: twitter.com/souravv_95
+Twitter: https://www.twitter.com/souravv_95
 Linkedin: https://www.linkedin.com/in/sourav-verma-82818316b
 E-mail: souravv9009@gmail.com
 
